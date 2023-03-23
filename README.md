@@ -3,8 +3,6 @@
 
 [![Header](img/gmail_alias.jpg)]() 
 
-[![Header](https://user-images.githubusercontent.com/52702712/197857942-3ef1eb26-d9a6-4930-b430-326afcbb8d3f.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
-
 This is a gmail aliases generator based on the priciple of [gmail aliases feature].
 
 >
