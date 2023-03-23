@@ -1,6 +1,17 @@
 # gmail-aliases-generator
 
-[![header](/img/gmail_alias.jpg)](https://support.cloudhq.net/how-to-setup-gmail-aliases/#:~:text=Append%20a%20plus%20(“%2B”,at%20yourusername%40gmail.com) 
+
+[![Header](img/gmail_alias.jpg)]() 
+
+[![Header](https://user-images.githubusercontent.com/52702712/197857942-3ef1eb26-d9a6-4930-b430-326afcbb8d3f.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+This is a gmail aliases generator based on the priciple of [gmail aliases feature].
+
+>
+Append a plus (“+”) sign, with any combination of letters or numbers to follow, after your email address. For example, if your email address was yourusername@gmail.com, you could send mail to yourusername+friends@gmail.com or yourusername+mailinglists@gmail.com and still receive mail at yourusername@gmail.com.
+>
+
+
 
 A simple email generator that uses the [gmail aliases feature] to generate unlimited email addresses which all point to one inbox.
 This means u can create multiple accounts for a service while all trafic is pointed to one inbox which is usefull for mass creating accounts.
