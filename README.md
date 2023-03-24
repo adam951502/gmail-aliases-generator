@@ -27,10 +27,10 @@ This generator will create multiple aliases of original account, which will all 
     Note: if the export file is empty, try exporting it again to the same path
 
 ## Working status:
-**note: this aliases could be use for apply an extra account from Discord for midjourney**
+**note: the aliases could be used for applying an extra account for Discord**
 
 
 Availability of meta platform
-- [x] Discord
+- [x] Discord -> midjourney
 - [ ] Facebook
 - [ ] Instagram
