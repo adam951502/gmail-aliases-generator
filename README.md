@@ -1,25 +1,19 @@
 # gmail-aliases-generator
 
 
-[![Header](img/gmail_alias.jpg)]() 
+[![Header](img/gmail_alias.jpg)](https://support.cloudhq.net/how-to-setup-gmail-aliases/) 
 
-This is a gmail aliases generator based on the priciple of [gmail aliases feature].
+This is a gmail aliases generator based on the priciple of [gmail aliases feature](https://support.cloudhq.net/how-to-setup-gmail-aliases/).
 
+## Machanism 
+>Append a plus (“+”) sign, with any combination of letters or numbers to follow, after your email address. For example, if your email address was yourusername@gmail.com, you could send mail to yourusername+friends@gmail.com or yourusername+mailinglists@gmail.com and still receive mail at yourusername@gmail.com.
 >
-Append a plus (“+”) sign, with any combination of letters or numbers to follow, after your email address. For example, if your email address was yourusername@gmail.com, you could send mail to yourusername+friends@gmail.com or yourusername+mailinglists@gmail.com and still receive mail at yourusername@gmail.com.
->
 
+This generator will create multiple aliases of original account, which will all point to the same master (original) email address.
 
+## Using steps:
 
-A simple email generator that uses the [gmail aliases feature] to generate unlimited email addresses which all point to one inbox.
-This means u can create multiple accounts for a service while all trafic is pointed to one inbox which is usefull for mass creating accounts.
-
-Be aware a small percentage of websites don't allow these types of email adresses. ( see table below )
-
-WARNING⚠️: This isn't a Google account generator.
-
-
-## How to use :
+0. apply an gmail account
 
 1.  download the repo
 
@@ -27,15 +21,16 @@ WARNING⚠️: This isn't a Google account generator.
 
 3.  go into the "generate suffix" submenu
 
-4.  input ur <u><mark>**gmail**</mark></u> address and select how many emails u want to generate
+4.  input ur <u><mark>**gmail**</mark></u> account name and select how many aliases you want to generate
 
 5.  copy them or export them using the "export suffix" submenu
     Note: if the export file is empty, try exporting it again to the same path
 
 ## Working status:
 **note: most meta products wont work**
+
+
 | Status | Service       |
-| - | ------ |
-| 🚫| Facebook |
-| 🚫| Instagram |       
-| ✅| Discord |
+- [x] Discord
+- [ ] Facebook
+- [ ] Instagram
